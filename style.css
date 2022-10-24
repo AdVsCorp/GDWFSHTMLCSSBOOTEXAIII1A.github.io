@@ -34,11 +34,6 @@ footer {
 
 /* Small Tablet View */
 @media screen and (min-device-width: 480px) and (max-device-width: 767px) {
-    footer {
-        bottom: 0;
-        position: fixed;
-        width: 100%;
-    }
     .menu {
         font-size: 20px;
     }
@@ -49,11 +44,6 @@ footer {
 
 /* Tablet View */
 @media screen and (min-device-width: 767px) and (max-device-width: 1024px) {
-    footer {
-        bottom: 0;
-        position: fixed;
-        width: 100%;
-    }
     .menu {
         font-size: 20px;
     }
